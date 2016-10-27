@@ -24,7 +24,7 @@ namespace ExempleTP2SecondOfHisName
 
     private void button1_Click(object sender, EventArgs e)
     {
-
+      label1.Text = "You Died";
     }
   }
 }
